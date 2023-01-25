@@ -1,7 +1,7 @@
 # MicroFruit
 MicroFruit Docs
 
-Hi! And thanks for using the MicroFruit, built by Ben Strout. The MicroFruit is a small desk companion which will update the time, provide a weather forecast for a defined city, and tell you the time. In order to start using your MicroFruit though, you'll need to set up Wifi. You should see something like this when you first plug it in with the supplied USB cable.
+Hi! And thanks for using the MicroFruit, built by Ben Strout. The MicroFruit is a small desk companion which will show you quotes, provide a weather forecast for a defined city, and tell you the time. In order to start using your MicroFruit though, you'll need to set up Wifi. You should see something like this when you first plug it in with the supplied USB cable.
 
 The device will create a WiFi hotspot you can connect into named 'MicroFruit'. You should see this in your Wifi hotspot list:
 
